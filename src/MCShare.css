@@ -1,0 +1,6 @@
+.MCShare_wx_dialog{position:fixed; top:50%; left:50%; z-index:99999; width:280px; height:340px; margin:-170px 0 0 -150px; padding:0 10px; border-radius:4px; border:1px solid #ccc; background-color:#fff; font-size:14px;}
+.MCShare_wx_dialog_head{border-bottom:1px solid #f6f6f6; line-height:30px; overflow:hidden;}
+.MCShare_wx_dialog_head h4{float:left; margin:0; padding:0; color:#333;}
+.MCShare_wx_dialog_close{float:right; width:30px; height:30px; text-align:center; color:#999; cursor:pointer;}
+.MCShare_wx_dialog_content p{margin:20px 0 0 0; color:#999;}
+#MCShare_wx_dialog_qrcode{height:200px; width:200px; margin:auto; padding-top:20px; text-align:center;}
